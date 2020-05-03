@@ -1,0 +1,8 @@
+Jest to palindrom
+Jest to anagram
+Jest to palindrom
+Jest to anagram
+Jest to palindrom
+Jest to anagram
+Jest to palindrom
+Nie jest to anagram
